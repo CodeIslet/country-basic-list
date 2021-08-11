@@ -1,0 +1,23 @@
+{
+  "name": "country-basic-list",
+  "version": "0.1.0",
+  "description": "Save the country information provided by data.go.kr as a json file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://CodeIslet@github.com/CodeIslet/country-basic-list.git"
+  },
+  "keywords": [],
+  "author": "CodeIslet",
+  "bugs": {
+    "url": "https://github.com/CodeIslet/country-basic-list/issues"
+  },
+  "homepage": "https://github.com/CodeIslet/country-basic-list#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.21"
+  }
+}
